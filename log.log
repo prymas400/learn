@@ -1,0 +1,36 @@
+[33mcommit 2bf45f2850c35bb3754282824dd73aeb127ae42d[m
+Merge: 5bf8e88 682fd99
+Author: Przemek <przemek.nauka+bitbucket@gmail.com>
+Date:   Wed Oct 25 14:29:18 2017 +0200
+
+    test merge
+
+[33mcommit 682fd9971b42b7ab697706715b2979377b07dad5[m
+Author: Przemek <przemek.nauka+bitbucket@gmail.com>
+Date:   Wed Oct 25 14:27:35 2017 +0200
+
+    add cos2
+
+[33mcommit 5bf8e8833723d0ec4fe9f1f01f451460a76827f8[m
+Author: Przemek <przemek.nauka+bitbucket@gmail.com>
+Date:   Wed Oct 25 14:24:49 2017 +0200
+
+    add cos1
+
+[33mcommit a365e597a0abeb7fa533e1f422cde2c3cde18995[m
+Author: Przemek <przemek.nauka+bitbucket@gmail.com>
+Date:   Wed Oct 25 14:23:31 2017 +0200
+
+    add new file style.css
+
+[33mcommit 165f80af24cca2c45dac57ef900bec669cffb29e[m
+Author: Przemek <przemek.nauka+bitbucket@gmail.com>
+Date:   Wed Oct 25 14:21:04 2017 +0200
+
+    add table to index.html
+
+[33mcommit 5167ec765f687a43c2bfaaf52a05bc222481bd31[m
+Author: Przemek <przemek.nauka+bitbucket@gmail.com>
+Date:   Wed Oct 25 14:19:15 2017 +0200
+
+    add new file index.html
